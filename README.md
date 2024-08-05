@@ -1,4 +1,4 @@
-## Download from GitHub
+## Get VLC Media Player for Windows on GitHub – secure your media experience!
 
 By downloading VLC from GitHub, you gain access to the latest features and updates directly from the developers. GitHub is a trusted platform that ensures you receive a genuine and safe version of VLC, free from malware and unauthorized modifications.
 
