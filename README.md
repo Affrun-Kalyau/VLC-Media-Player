@@ -1,5 +1,9 @@
 # VLC-Media-Player Download
 
+<p align="center" style="margin-top: 20px;">
+  <img src="vlc.png" alt="Windows Logo">
+</p>
+
 # Experience Versatile Media Playback
 
 VLC Media Player is the ultimate solution for all your media needs. It supports a wide range of audio and video formats without requiring additional codecs, making it the most versatile player available. Whether you're watching family videos or listening to music, VLC offers seamless playback.
